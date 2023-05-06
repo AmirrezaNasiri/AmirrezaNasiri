@@ -1,6 +1,6 @@
-# 👨‍💻 Amirreza Nasiri: Software Developer and DevOps Engineer 🚀
+# 👨‍💻 Amirreza Nasiri
 
-Hey there! I'm Amirreza Nasiri, a passionate Software Developer and DevOps Engineer with hands-on experience in designing, implementing, and maintaining complex infrastructure on-premises systems. I love automating processes, optimizing systems, and ensuring high availability for mission-critical applications.
+Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and **DevOps Engineer** with hands-on experience in designing, implementing, and maintaining complex infrastructure on-premises systems. I love automating processes, optimizing systems, and ensuring high availability for mission-critical applications.
 
 ![Available for Part-Time DevOps Work](https://img.shields.io/badge/🔍%20Available%20for%20Part--Time%20DevOps%20Work-yes-brightgreen)
 
