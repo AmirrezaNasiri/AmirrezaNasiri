@@ -12,7 +12,7 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 <img src="https://img.shields.io/github/stars/evryn/kermoo?style=flat-square&label=&cacheSeconds=60&color=f6f8fa&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIA0KCSB2aWV3Qm94PSIwIDAgNDcuOTQgNDcuOTQiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggc3R5bGU9ImZpbGw6I0VEOEExOTsiIGQ9Ik0yNi4yODUsMi40ODZsNS40MDcsMTAuOTU2YzAuMzc2LDAuNzYyLDEuMTAzLDEuMjksMS45NDQsMS40MTJsMTIuMDkxLDEuNzU3DQoJYzIuMTE4LDAuMzA4LDIuOTYzLDIuOTEsMS40MzEsNC40MDNsLTguNzQ5LDguNTI4Yy0wLjYwOCwwLjU5My0wLjg4NiwxLjQ0OC0wLjc0MiwyLjI4NWwyLjA2NSwxMi4wNDINCgljMC4zNjIsMi4xMDktMS44NTIsMy43MTctMy43NDYsMi43MjJsLTEwLjgxNC01LjY4NWMtMC43NTItMC4zOTUtMS42NTEtMC4zOTUtMi40MDMsMGwtMTAuODE0LDUuNjg1DQoJYy0xLjg5NCwwLjk5Ni00LjEwOC0wLjYxMy0zLjc0Ni0yLjcyMmwyLjA2NS0xMi4wNDJjMC4xNDQtMC44MzctMC4xMzQtMS42OTItMC43NDItMi4yODVsLTguNzQ5LTguNTI4DQoJYy0xLjUzMi0xLjQ5NC0wLjY4Ny00LjA5NiwxLjQzMS00LjQwM2wxMi4wOTEtMS43NTdjMC44NDEtMC4xMjIsMS41NjgtMC42NSwxLjk0NC0xLjQxMmw1LjQwNy0xMC45NTYNCglDMjIuNjAyLDAuNTY3LDI1LjMzOCwwLjU2NywyNi4yODUsMi40ODZ6Ii8+DQo8L3N2Zz4="/>
 </a>
 
-<p align="center"><a href="https://github.com/evryn/kermoo"><img src="./assets/kermoo.png" width="300"/></a></p>
+<p align="center"><a href="https://github.com/evryn/kermoo"><img src="./assets/kermoo.png" width="500"/></a></p>
 
 
 ### 💰 Laravel Toman
@@ -20,7 +20,7 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 <img src="https://img.shields.io/github/stars/evryn/laravel-toman?style=flat-square&label=&cacheSeconds=60&color=f6f8fa&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIA0KCSB2aWV3Qm94PSIwIDAgNDcuOTQgNDcuOTQiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggc3R5bGU9ImZpbGw6I0VEOEExOTsiIGQ9Ik0yNi4yODUsMi40ODZsNS40MDcsMTAuOTU2YzAuMzc2LDAuNzYyLDEuMTAzLDEuMjksMS45NDQsMS40MTJsMTIuMDkxLDEuNzU3DQoJYzIuMTE4LDAuMzA4LDIuOTYzLDIuOTEsMS40MzEsNC40MDNsLTguNzQ5LDguNTI4Yy0wLjYwOCwwLjU5My0wLjg4NiwxLjQ0OC0wLjc0MiwyLjI4NWwyLjA2NSwxMi4wNDINCgljMC4zNjIsMi4xMDktMS44NTIsMy43MTctMy43NDYsMi43MjJsLTEwLjgxNC01LjY4NWMtMC43NTItMC4zOTUtMS42NTEtMC4zOTUtMi40MDMsMGwtMTAuODE0LDUuNjg1DQoJYy0xLjg5NCwwLjk5Ni00LjEwOC0wLjYxMy0zLjc0Ni0yLjcyMmwyLjA2NS0xMi4wNDJjMC4xNDQtMC44MzctMC4xMzQtMS42OTItMC43NDItMi4yODVsLTguNzQ5LTguNTI4DQoJYy0xLjUzMi0xLjQ5NC0wLjY4Ny00LjA5NiwxLjQzMS00LjQwM2wxMi4wOTEtMS43NTdjMC44NDEtMC4xMjIsMS41NjgtMC42NSwxLjk0NC0xLjQxMmw1LjQwNy0xMC45NTYNCglDMjIuNjAyLDAuNTY3LDI1LjMzOCwwLjU2NywyNi4yODUsMi40ODZ6Ii8+DQo8L3N2Zz4="/>
 </a>
 
-<p align="center"><a href="https://github.com/evryn/laravel-toman"><img src="./assets/laravel-toman.png" width="300"/></a></p>
+<p align="center"><a href="https://github.com/evryn/laravel-toman"><img src="./assets/laravel-toman.png" width="500"/></a></p>
 
 
 
