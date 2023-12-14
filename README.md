@@ -2,6 +2,11 @@
 
 Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and **DevOps Engineer** with hands-on experience in designing, implementing, and maintaining complex infrastructure on-premises systems. I love automating processes, optimizing systems, and ensuring high availability for mission-critical applications.
 
+<p align="center">
+<a href="https://www.credly.com/badges/78cf81c0-a536-447e-bc0b-ead2a8aef4ad"><img src="./assets/ckad-logo.png" height="96" width="96"/></a>
+<a href="https://www.credly.com/badges/69e0c2f4-2a9c-4803-861c-3d3f710114e2"><img src="./assets/cka-logo.png" height="96" width="96"/></a>
+</p>
+
 ![Available for Part-Time DevOps Work](https://img.shields.io/badge/🔍%20Available%20for%20Part--Time%20DevOps%20Work-yes-brightgreen)
 
 ## Projects
@@ -90,7 +95,8 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 | 💻 Programming | ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js) ![Vue.js](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 | 📚 Data | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![MySQL NDB](https://img.shields.io/badge/-MySQL%20NDB-05122A?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![MongoDB](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite) <br>![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) ![Redis Sentinel](https://img.shields.io/badge/-Redis%20Sentinel-05122A?style=flat&logo=redis) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
 | 💾 File Storage | ![Rook](https://img.shields.io/badge/-Rook%20(Ceph)-05122A?style=flat&logo=ceph) ![Minio](https://img.shields.io/badge/-Minio-05122A?style=flat&logo=minio)
-
+| 📊 Analysis | ![apachejmeter](https://img.shields.io/badge/-Apache%20JMeter-05122A?style=flat&logo=apachejmeter) ![devtools](https://img.shields.io/badge/-Chrome%20DevTools-05122A?style=flat&logo=googlechrome) ![lighthouse](https://img.shields.io/badge/-Lighthouse-05122A?style=flat&logo=lighthouse) 
+| 🕶 Business | ![googleanalytics](https://img.shields.io/badge/-Google%20Analytics-05122A?style=flat&logo=googleanalytics) ![googlesearchconsole](https://img.shields.io/badge/-Google%20Search%20Console-05122A?style=flat&logo=googlesearchconsole) ![googlesearchconsole](https://img.shields.io/badge/-Google%20Search%20Console-05122A?style=flat&logo=googlesearchconsole)
 
 
 ## 🤝🏻 Connect with me
