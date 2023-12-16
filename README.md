@@ -7,7 +7,7 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 <a href="https://www.credly.com/badges/69e0c2f4-2a9c-4803-861c-3d3f710114e2"><img src="./assets/cka-logo.png" height="96" width="96"/></a>
 </p>
 
-![Available for Part-Time DevOps Work](https://img.shields.io/badge/🔍%20Available%20for%20Part--Time%20DevOps%20Work-yes-brightgreen)
+![Available for Hire](https://img.shields.io/badge/🔍%20Available%20for%20Hire-Yes-brightgreen)
 
 ## Projects
 
