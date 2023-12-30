@@ -19,7 +19,7 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 ## Projects
 
 
-### 🐈 Pashmak Guru (Under Development)
+### 🐈 Pashmak Guru Organization
 <a href="https://github.com/PashmakGuru"><img src="https://img.shields.io/badge/PashmakGuru-blue?logo=github&style=flat-square"/>
 <img src="https://img.shields.io/badge/👷 Under Development-lemon?style=flat-square"/>
 </a>
