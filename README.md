@@ -9,6 +9,13 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 
 ![Available for Hire](https://img.shields.io/badge/🔍%20Available%20for%20Hire-Yes-brightgreen)
 
+## Connect with me
+
+[![Gmail](https://img.shields.io/badge/-nasiri.amirreza.96@gmail.com-05122A?style=flat&logo=gmail)](mailto:nasiri.amirreza.96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/amirreza-nasiri/)
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/AmirrezaNasiri)
+
+
 ## Projects
 
 
@@ -112,9 +119,3 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 | 💾 File Storage | ![Rook](https://img.shields.io/badge/-Rook%20(Ceph)-05122A?style=flat&logo=ceph) ![Minio](https://img.shields.io/badge/-Minio-05122A?style=flat&logo=minio)
 | 📊 Analysis | ![apachejmeter](https://img.shields.io/badge/-Apache%20JMeter-05122A?style=flat&logo=apachejmeter) ![devtools](https://img.shields.io/badge/-Chrome%20DevTools-05122A?style=flat&logo=googlechrome) ![lighthouse](https://img.shields.io/badge/-Lighthouse-05122A?style=flat&logo=lighthouse) 
 | 🕶 Business | ![googleanalytics](https://img.shields.io/badge/-Google%20Analytics-05122A?style=flat&logo=googleanalytics) ![googlesearchconsole](https://img.shields.io/badge/-Google%20Search%20Console-05122A?style=flat&logo=googlesearchconsole) ![googlesearchconsole](https://img.shields.io/badge/-Google%20Search%20Console-05122A?style=flat&logo=googlesearchconsole)
-
-
-## 🤝🏻 Connect with me
-
-[![Gmail](https://img.shields.io/badge/-nasiri.amirreza.96@gmail.com-05122A?style=flat&logo=gmail)](mailto:nasiri.amirreza.96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/amirreza-nasiri/)
