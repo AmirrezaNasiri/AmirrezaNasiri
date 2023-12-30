@@ -9,12 +9,9 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 
 ![Available for Hire](https://img.shields.io/badge/🔍%20Available%20for%20Hire-Yes-brightgreen)
 
-## Connect with me
-
 [![Gmail](https://img.shields.io/badge/-nasiri.amirreza.96@gmail.com-05122A?style=flat&logo=gmail)](mailto:nasiri.amirreza.96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/amirreza-nasiri/)
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/AmirrezaNasiri)
-
 
 ## Projects
 
@@ -102,7 +99,7 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and
 
 <p align="center"><a href="https://github.com/AmirrezaNasiri/camera-motion-detector"><img src="./assets/camera-motion-detector.png" width="500"/></a></p>
 
-## 🍀 Skills
+## Skills
 | Topic | Things |
 |-|-|
 | 💼 Communications | ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-05122A?style=flat&logo=microsoft-teams) ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack) ![Zoho Cliq](https://img.shields.io/badge/-Zoho%20Cliq-05122A?style=flat&logo=zoho) ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)
