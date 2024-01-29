@@ -1,6 +1,6 @@
 # 👨‍💻 Amirreza Nasiri
 
-Hey there! I'm Amirreza Nasiri, a passionate **Software Developer**, **SRE** and **DevOps Engineer** with hands-on experience in designing, implementing, and maintaining complex infrastructure on-premises systems. I love automating processes, optimizing systems, and ensuring high availability for mission-critical applications.
+Hey there! I'm Amirreza Nasiri, a passionate **Software Engineer** with a solid background in **Site-reliability** and **DevOps** Engineering with hands-on experience in designing, implementing, and maintaining complex software and infrastructure. I love automating processes, optimizing systems, and ensuring high availability for mission-critical applications.
 
 <p align="center">
 <a href="https://www.credly.com/badges/78cf81c0-a536-447e-bc0b-ead2a8aef4ad"><img src="./assets/ckad-logo.png" height="96" width="96"/></a>
