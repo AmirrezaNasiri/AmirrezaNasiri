@@ -20,7 +20,7 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Engineer** with a solid 
 <img src="https://img.shields.io/badge/👷 Under Development-lemon?style=flat-square"/>
 </a>
 
-<p align="center"><a href="https://github.com/Langomine"><img src="./assets/langomine-banner.png" width="500"/></a></p>
+<p align="center"><a href="https://github.com/Langomine"><img src="./assets/langomine banner.png" width="500"/></a></p>
 
 
 ### 🐈 Pashmak Guru Organization
