@@ -15,13 +15,6 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Engineer** with a solid 
 
 ## Projects
 
-### 📚 Pashmak Guru Organization
-<a href="https://github.com/Langomine"><img src="https://img.shields.io/badge/Langomine-blue?logo=github&style=flat-square"/>
-<img src="https://img.shields.io/badge/👷 Under Development-lemon?style=flat-square"/>
-</a>
-
-<p align="center"><a href="https://github.com/Langomine"><img src="./assets/langomine banner.png" width="500"/></a></p>
-
 
 ### 🐈 Pashmak Guru Organization
 <a href="https://github.com/PashmakGuru"><img src="https://img.shields.io/badge/PashmakGuru-blue?logo=github&style=flat-square"/>
