@@ -7,8 +7,6 @@ Hey there! I'm Amirreza Nasiri, a passionate **Software Engineer** with a solid 
 <a href="https://www.credly.com/badges/69e0c2f4-2a9c-4803-861c-3d3f710114e2"><img src="./assets/cka-logo.png" height="96" width="96"/></a>
 </p>
 
-![Available for Hire](https://img.shields.io/badge/🔍%20Available%20for%20Hire-Yes-brightgreen)
-
 [![Gmail](https://img.shields.io/badge/-nasiri.amirreza.96@gmail.com-05122A?style=flat&logo=gmail)](mailto:nasiri.amirreza.96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/amirreza-nasiri/)
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/AmirrezaNasiri)
